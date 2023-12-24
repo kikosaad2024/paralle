@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="https://autoinstall-win.pp.parallels.com/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>https://autoinstall-win.pp.parallels.com/</link>
+	<atom:link href="https://cdn1.axiell.com/privacy-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cdn1.axiell.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 21 Dec 2023 17:05:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Dec 2023 22:16:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
